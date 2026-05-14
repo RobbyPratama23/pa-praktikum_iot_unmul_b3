@@ -6,7 +6,7 @@
 * **Celio Arga Rumahorbo** (NIM: 2309106039)
 
 ## 📌 Judul Projek Akhir
-**Sistem Otomasi Pakan dan Monitoring Lingkungan Kandang Pintar dengan Integrasi Blynk dan Telegram.**
+**Smart Pet Care System (Sistem Kandang & Pemberi Makan Hewan Peliharaan Pintar)**
 
 ## 📝 Deskripsi
 Projek ini bertujuan untuk membantu pemilik hewan peliharaan dalam memantau kondisi kandang (suhu) serta level air minum secara real-time. Sistem ini memiliki fitur utama:
