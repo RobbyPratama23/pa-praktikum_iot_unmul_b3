@@ -15,9 +15,9 @@ Projek ini bertujuan untuk membantu pemilik hewan peliharaan dalam memantau kond
 3. **Notifikasi Darurat:** Menggunakan Bot Telegram untuk mengirimkan alert jika persediaan air minum habis.
 
 ## 🛠️ Pembagian Tugas per Individu
-* **Robby Pratama (Penghubung):** Mengatur koneksi ke platform IoT (Blynk dan Telegram).
-* **Rafif Zahran Haryadi (Tukang Rakit):** Bertanggung jawab pada perancangan prototype serta alat IoT.
-* **Celio Arga Rumahorbo (Tukang Ngoding):** Menulis kode program di Arduino
+* **Robby Pratama (Penghubung):** Menguji sistem, Menghubungi Aslab Pembimbing.
+* **Rafif Zahran Haryadi (Tukang Rakit):** Merangkai alat, Membuat Prototype.
+* **Celio Arga Rumahorbo (Tukang Ngoding):** Menulis kode logika, Kontrol dan Monitoring.
 
 ## 🔌 Komponen yang Digunakan
 * **Mikrokontroller:** ESP32
